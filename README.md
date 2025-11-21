@@ -17,7 +17,7 @@ Proyek ini dibuat untuk mendemonstrasikan kemampuan dalam *data analytics* dan *
 
 ## 📊 Temuan Utama
 - Rating bintang **1** mendominasi ulasan pengguna.  
-- Keluhan terbanyak terkait: **error**, **login**, **blank/crash**, **server**, **loading**, dan **transaksi lambat**.  
+- Keluhan terbanyak terkait yaitu **error**, **login**, **blank/crash**, **server**, **loading**, dan **transaksi lambat**.  
 - Visualisasi menunjukkan masalah teknis yang konsisten dan dapat diprioritaskan untuk perbaikan.
 
 ---
